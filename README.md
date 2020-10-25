@@ -1,3 +1,6 @@
+### This is an assignment project. User can login manually or can login with Facebook. Main purpose of this project is to show user-login with Facebook.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
